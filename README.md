@@ -15,17 +15,13 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-
 
 
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/larkify/projects/">
-    <img src="images/larkpcz1.png" alt="LarkX Himself!" width="140" height="140">
+    <img src="images/larkpcz1.png" alt="LarkX Himself!" width="240" height="240">
   </a>
 
   <h3 align="center">LarkX's Projects</h3>
