@@ -25,7 +25,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/larkify/projects/">
-    <img src="images/larkpcz1.png" alt="LarkX Himself!" width="80" height="80">
+    <img src="images/larkpcz1.png" alt="LarkX Himself!" width="100" height="100">
   </a>
 
   <h3 align="center">LarkX's Projects</h3>
