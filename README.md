@@ -59,7 +59,7 @@ Please note that not all my projects are open source. This is because that I wan
 <!-- CONTACT -->
 ## Contact
 
-Discord - [@larkx#0001](https://discord.bio/larkx) - main@larkx.xyz
+Discord - [@larkx#0001](https://discord.bio/p/larkx) - main@larkx.xyz
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
