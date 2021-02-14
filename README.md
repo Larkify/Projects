@@ -18,13 +18,9 @@
 
 
 <!-- PROJECT LOGO -->
-<br />
-<p align="left">
-  <a href="https://github.com/larkify/projects/">
-    <img src="images/larkpcz1.png" alt="LarkX Himself!" width="140" height="140">
-  </a>
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Karma" src="https://media.discordapp.net/attachments/763790641041637436/810624344153391144/larkpcz1.png?width=540&height=540"> 
 
-# LarkX's Projects
+# KarmaBot ✨
 
   <p align="right">
     A repository for providing all the information/code to my Projects!
