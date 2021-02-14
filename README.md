@@ -21,12 +21,12 @@
 <br />
 <p align="left">
   <a href="https://github.com/larkify/projects/">
-    <img src="images/larkpcz1.png" alt="LarkX Himself!" width="240" height="240">
+    <img src="images/larkpcz1.png" alt="LarkX Himself!" width="140" height="140">
   </a>
 
-  <h3 align="center">LarkX's Projects</h3>
+  <h3 align="right">LarkX's Projects</h3>
 
-  <p align="center">
+  <p align="right">
     A repository for providing all the information/code to my Projects!
     <br />
     <a href="https://github.com/larkify/projects"><strong>Explore the docs »</strong></a>
