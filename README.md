@@ -40,7 +40,7 @@
     ·
     <a href="https://www.larkx.xyz/"> Website </a>
     ·
-    <a href="https://webhook.larkx.xyz/"> Webhooks </a>
+    <a href="https://webhook.larkx.xyz/"> Discord </a>
   </p>
 </p>
 
