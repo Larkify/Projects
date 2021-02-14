@@ -19,7 +19,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<p align="center">
+<p align="left">
   <a href="https://github.com/larkify/projects/">
     <img src="images/larkpcz1.png" alt="LarkX Himself!" width="240" height="240">
   </a>
