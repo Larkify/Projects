@@ -22,7 +22,7 @@
 
 # LarkX's Projects
 
-  <p align="right">
+  <p align="left">
     A repository for providing all the information/code to my Projects!
     <br />
     <a href="https://github.com/larkify/projects"><strong>Explore the docs »</strong></a>
