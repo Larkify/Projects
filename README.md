@@ -24,7 +24,7 @@
     <img src="images/larkpcz1.png" alt="LarkX Himself!" width="140" height="140">
   </a>
 
-  <h3 align="right">LarkX's Projects</h3>
+  <h1 align="right">LarkX's Projects</h3>
 
   <p align="right">
     A repository for providing all the information/code to my Projects!
