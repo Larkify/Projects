@@ -34,20 +34,6 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">Projects</a>
-      <ul>
-        <li><a href="#built-with">Nova</a></li>
-        <li><a href="#built-with">Webhooks</a></li>
-        <li><a href="#built-with">ArkiBot</a></li>
-      </ul>
-    </li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
