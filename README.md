@@ -20,7 +20,7 @@
 <!-- PROJECT LOGO -->
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Karma" src="https://media.discordapp.net/attachments/763790641041637436/810624344153391144/larkpcz1.png?width=540&height=540"> 
 
-# KarmaBot ✨
+# LarkX's Projects
 
   <p align="right">
     A repository for providing all the information/code to my Projects!
