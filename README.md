@@ -28,11 +28,6 @@
     <a href="https://github.com/larkify/projects"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/larkify/novabot"> Nova </a>
-    ·
-    <a href="https://www.larkx.xyz/"> Website </a>
-    ·
-    <a href="https://webhook.larkx.xyz/"> Discord </a>
   </p>
 </p>
 
