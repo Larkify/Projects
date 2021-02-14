@@ -41,12 +41,12 @@
 
 If you'd like to know a bit about me, then you've come to the right place. I'm a TikToker from the UK who posts content based around technology and computing. Every now and again I like to relax and casually game. I also have basic knowledge in coding languages such as Discord.JS, Python, PHP, HTML & Much more. It all depends on what I'm in the mood for. I don't claim myself as an expert of any language, but I like equally spreading my intrest across multiple languages.
 
-### Built With
+### My Projects
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+This area index's all my projects is no order. The coding languages vary a lot but never the less, I love them all!
+* [Nova](https://nova.larkx.xyz/)
+* [Webhook Sender](https://webhook.larkx.xyz/)
+* [ArkiBot](https://larkx.xyz/)
 
 
 
