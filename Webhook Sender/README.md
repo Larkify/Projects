@@ -4,7 +4,7 @@
 
   <p align="left">
     A simple way of sending webhooks from the Internet using PHP!
-    [![Run on Repl.it](https://repl.it/badge/github/larkify/projects/webhook%20sender/api)](https://repl.it/github/larkify/projects/webhook%20sender/api))
+[![Run on Repl.it](https://repl.it/badge/github/kognise/repl.it-mobile)](https://repl.it/github/kognise/repl.it-mobile)
     <br />
     <br />
   </p>
