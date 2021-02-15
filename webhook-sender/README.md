@@ -16,12 +16,8 @@ I recommend running this on [repl.it](https://repl.it) since it's easy to use an
 
 ## Setting it Up
 
-Follow these simple instructions so that the Webhook Sender works for you.
-* [Nova](https://nova.larkx.xyz/)
-* [Webhook Sender](https://webhook.larkx.xyz/)
-* [ArkiBot](https://larkx.xyz/)
-
-
+I'd reccomend installing the API first and then the Front-end. 
+They have their own guides in their folders.
 
 ## Information
 
