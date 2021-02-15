@@ -1,0 +1,10 @@
+[tool]
+[tool.poetry]
+authors = ["Larkify | main@larkx.xyz"]
+name = "root"
+version = "0.0.0"
+description="Back-end for sending a Webhook to Discord."
+[tool.poetry.dependencies]
+flask = "==1.0.2"
+python = "^3.8"
+Discord-Webhooks = "^1.0.4"
