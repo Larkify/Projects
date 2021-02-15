@@ -21,7 +21,7 @@ They have their own guides in their folders.
 
 ## Information
 
-Please note that not all my projects are open source. This is because that I want to keep some of them Private for the reason that they're so spectacular that I want them to be my own. I hope this doesn't bother you though. 
+I won't be providing too much help with this project as it's only on here if developers want to run their own version, if you don't know what you're doing then don't try installing it. Just use my Live Version. 
 
 
 ## Contact
