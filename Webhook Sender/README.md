@@ -11,7 +11,7 @@
 
 
 ## Getting Started
-[![Run API on Repl.it](https://repl.it/badge/github/Larkify/Projects/Webhook%20Sender/API)](https://repl.it/github/Larkify/Projects/Webhook%20Sender/API)
+[![Run on Repl.it](https://repl.it/badge/github/Larkify/Projects/Webhook%20Sender/API)](https://repl.it/github/Larkify/Projects/Webhook%20Sender/API)
 
 I recommend running this on [repl.it](https://repl.it) since it's easy to use and sets up all the dependencies for you. I just also want to give credit to [saox](https://github.com/saousername) for helping me with the back-end system. I button will be at the top of this page to run it on repl. If you don't want to run it on repl, then you can follow the simple guides below on getting it setup.
 
