@@ -2,4 +2,4 @@
 
 ## THIS REQUIRES THE [DISCORD-WEBHOOKS](https://github.com/JamesIves/discord-webhooks) PACKAGE. 
 ## READ THAT DOCUMENTATION ON INSTALLING.
-### Thanks SAOX for help on this :)
+### Thanks [SAOX](https://github.com/saousername) for help on this :)
