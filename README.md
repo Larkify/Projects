@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 25px;" alt="Karma" src="https://discord.js.org/static/logo-square.png"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 25px;" alt="Karma" src="https://images-ext-1.discordapp.net/external/2SjTxmKcOaEk3QPynM8E6pJkrtzLpeTyCp1GpS_bBgQ/https/yt3.ggpht.com/ytc/AAUvwngTUDY-RKgfAvWupgBYbbqhIyzlvQrRA84qClyg%3Ds900-c-k-c0x00ffffff-no-rj?width=675&height=675"> 
 
 # LarkX's Projects
 
