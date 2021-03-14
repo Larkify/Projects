@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius:15px;" alt="Karma" src="https://discord.js.org/static/logo-square.png"> 
+<img width="150" height="150" align="left" style="float: left; border-radius:15px; margin: 0 10px 0 0;" alt="Karma" src="https://discord.js.org/static/logo-square.png"> 
 
 # LarkX's Projects
 
