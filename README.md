@@ -1,4 +1,4 @@
-<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 25px;" alt="Karma" src="https://media.discordapp.net/attachments/741659143273709588/820779418594574356/larkpcz_rounded.png"> 
+<img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 25px;" alt="Karma" src="https://media.discordapp.net/attachments/741659143273709588/820779801748832277/larkpcz_rounded.png"> 
 
 # LarkX's Projects
 
