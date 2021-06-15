@@ -3,7 +3,7 @@
 # 🏆 CryHosting Website 🎉
 
   <p align="left">
-    A VueJS site made with `Trydo` template. 
+    𝘈 𝘝𝘶𝘦𝘑𝘚 𝘴𝘪𝘵𝘦 𝘮𝘢𝘥𝘦 𝘸𝘪𝘵𝘩 `𝘛𝘳𝘺𝘥𝘰` 𝘵𝘦𝘮𝘱𝘭𝘢𝘵𝘦.
     <br />
     <a href="https://cryhosting.net/"><strong>Explore the site »</strong></a>
     <br />
